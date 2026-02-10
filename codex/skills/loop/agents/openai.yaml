@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loop"
+  short_description: "Close-the-loop coding with real CLI verification"
+  default_prompt: "Use the loop workflow to complete implementation with verifiable CLI evidence."

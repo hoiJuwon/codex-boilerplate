@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debug"
+  short_description: "Root-cause debugging with evidence and regression tests"
+  default_prompt: "Use the debug workflow to diagnose first, then apply the minimal verified fix."

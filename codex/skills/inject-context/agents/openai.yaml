@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inject Context"
+  short_description: "Inject minimal context, map architecture, then execute"
+  default_prompt: "Use inject-context to load only relevant docs/code context, summarize it, and perform the task."
