@@ -32,6 +32,7 @@ This repository has local Codex skills under `codex/skills/`.
 
 ## Commit Discipline
 
+- Always commit work in atomic units. Every task must be broken down and committed as one logical change at a time.
 - Keep commits atomic: one logical change per commit, and include only paths touched for that change.
 - Always run `git status --short` before staging/committing.
 - For tracked files, commit with explicit paths: `git commit -m "<scoped message>" -- path/to/file1 path/to/file2`.
